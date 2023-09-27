@@ -1,0 +1,12 @@
+input{
+    flex: 5;
+    min-width:20em;
+    color: red;
+}
+button{
+    flex: 1;
+}
+form{
+    display: flex;
+    flex-direction: row;
+}
